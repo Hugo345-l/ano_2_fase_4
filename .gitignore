@@ -1,0 +1,18 @@
+# Ignore datasets and archives
+archive/
+dataset/
+models/
+
+# Ignore Python cache and virtual environments
+__pycache__/
+.venv/
+*.pyc
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# Ignore OS-specific files
+.DS_Store
+
+# Ignore document files
+relatorio_cardioai.docx
