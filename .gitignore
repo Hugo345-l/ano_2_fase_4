@@ -1,7 +1,5 @@
 # Ignore datasets and archives
 archive/
-dataset/
-models/
 
 # Ignore Python cache and virtual environments
 __pycache__/
