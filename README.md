@@ -75,15 +75,7 @@ O **CardioIA** é um protótipo de assistente cardiológico que utiliza Visão C
   - Matriz de Confusão para análise de Falsos Positivos e Falsos Negativos.
 - Uma análise comparativa final recomenda o melhor modelo para aplicação em contexto médico, priorizando o **Recall** (sensibilidade) para detecção de casos de pneumonia.
 
----
 
-## 🗃 Histórico de Versões
-
-- **v1.0.0 (Dezembro/2024):**
-  - Estrutura inicial do projeto com dados, notebooks e planejamento.
-- **v1.1.0 (Julho/2025):**
-  - Criação do repositório no GitHub.
-  - Adição do README.md detalhado.
 
 ---
 
